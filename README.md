@@ -31,7 +31,7 @@ A console-based quiz application built with Java that tests your knowledge throu
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/java-quiz-app.git
+   git clone https://github.com/sanjiv261/Online-Quiz-App.git
    cd java-quiz-app
    ```
 
